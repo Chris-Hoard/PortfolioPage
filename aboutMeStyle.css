@@ -1,0 +1,75 @@
+@import url('//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css');
+h1
+
+#body {
+    position: relative;
+
+}
+
+#about {
+    padding-top: 50px;
+    height: 650px;
+    background-color: #1E88E5;
+    color: black;
+}
+
+#education {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #673ab7;
+}
+#workexperience {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #009688;
+}
+#contactme {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #FF7F50;
+}
+.title{
+    font: bold;
+    
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.9;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Linked in */
+.fa-linkedin {
+    background: #55ACEE;
+    color: white;
+    text-align: center; 
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+
+
+
+
+
