@@ -1,27 +1,21 @@
 @import url('//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css');
 
 
-#body {
+body {
     position: relative;
 
 }
 
 #about {
     padding-top: 50px;
-    height: 650px;
+     height: 650px;
     background-color: #1E88E5;
     color: black;
 }
 
-#education {
+#workexperenice {
     padding-top: 50px;
-    height: 500px;
-    color: #fff;
-    background-color: #673ab7;
-}
-#workexperience {
-    padding-top: 50px;
-    height: 500px;
+    height: 500px; 
     color: #fff;
     background-color: #009688;
 }
@@ -66,8 +60,25 @@
     display: block;
     margin: auto;
     width: 40%;
+    
 }
 
+
+ul {
+
+    padding: 10;
+    margin: 10px;
+}
+
+#vwse{
+    margin:20px;
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: black;
+    color:white;
+    background-image: none;
+}
 
 
 
