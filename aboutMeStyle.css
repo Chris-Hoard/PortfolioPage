@@ -25,6 +25,10 @@ body {
     color: #fff;
     background-color: #FF7F50;
 }
+#vwse{
+    margin:20px;
+}
+
 .title{
     font: bold;
     
@@ -70,14 +74,17 @@ ul {
     margin: 10px;
 }
 
-#vwse{
-    margin:20px;
-}
+
 
 .dropdown-menu > li > a:hover {
     background-color: black;
     color:white;
     background-image: none;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
 }
 
 
